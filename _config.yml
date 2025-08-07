@@ -1,10 +1,10 @@
 # Site settings
-title: NemoKasm Blog
-SEOTitle: NemoKasm的博客 | Hux Blog
+title: NemoKasm
+SEOTitle: NemoKasm的博客 | Wish Upon A Shooting Star
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: NemoKasm6969@gmail.com
 description: "There is NemoKasm'Blog,Welcome to here"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "NemoKasm, NemoKasm的博客, NemoKasm Blog"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
